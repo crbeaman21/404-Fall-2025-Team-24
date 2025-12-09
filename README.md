@@ -1,3 +1,7 @@
-# 404-Fall-2025-Team-24
-All necessary Files Relative to Team 24's ECEN Senior Design Capstone Project. 
-Teamates include Colby Beaman, Alyssa Rocco, and Emmanuel Palma 
+# elevate-2-0
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.

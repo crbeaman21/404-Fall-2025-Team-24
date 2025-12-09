@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "661973341050",
+    "firebase_url": "https://elevate-2-0-07zs58-default-rtdb.firebaseio.com",
+    "project_id": "elevate-2-0-07zs58",
+    "storage_bucket": "elevate-2-0-07zs58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661973341050:android:ba9dbc42a07e1147b47cc3",
+        "android_client_info": {
+          "package_name": "com.mycompany.elevate20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIS1e172ku8JhI9Hhu-Jgvv4BFeYOBBpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
