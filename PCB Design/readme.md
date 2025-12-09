@@ -1,2 +1,2 @@
 howdy,
-Here are the attached Gerber files that were sent for manufacturing over the couse of 403 and 404
+Here are the attached Gerber files that were sent for manufacturing over the course of 403 and 404
