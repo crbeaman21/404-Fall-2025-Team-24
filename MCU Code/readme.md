@@ -1,1 +1,1 @@
-Hello, this is the code that I ran on my Jetson Nano. 
+Hello, this is the code that was use for the Jetson.
