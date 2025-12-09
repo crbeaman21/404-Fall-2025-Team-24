@@ -1,2 +1,2 @@
 Hello
-The Application code is actually under the 2 folders named "ios" and "
+The Application code is actually under the 2 folders named "ios" and "lib"
