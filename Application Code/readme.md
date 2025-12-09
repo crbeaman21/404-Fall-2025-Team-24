@@ -1,2 +1,2 @@
 Hello
-The Application code is actually under the 2 folders named "ios", "lib", "test", and "web"
+The Application code is actually under the 2 folders named "ios", "lib", "test", "web", "firebase", "assets", and "applications". 
